@@ -1,6 +1,6 @@
-# booksapp
+# BiblioSphere (Reading app)
 
-A new Flutter project.
+BiblioSphere is a captivating Flutter application that opens the doors to a world of literary exploration. Immerse yourself in the joy of reading with an elegantly designed interface, seamless navigation, and a vast collection of books at your fingertips. Discover new stories, organize your reading list, and experience the enchantment of literature within the immersive realm of BiblioSphere.
 
 ## Getting Started
 
